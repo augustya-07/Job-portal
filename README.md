@@ -138,8 +138,8 @@ npm start
 
 
 ## 👨‍💻 Author
-- **Made with 💙 by Shubham**
-- **🔗 Connect on [LinkedIn](https://www.linkedin.com/in/shubham-kumar-894799290/)
+- **Made with 💙 by Augustya nanda singh**
+- **🔗 Connect on [LinkedIn](https://www.linkedin.com/in/augustya-nandan-singh-701346334)
 
 ---
 
